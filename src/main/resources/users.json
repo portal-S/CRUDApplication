@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "firstName": "ALIGADJI",
+    "lastName": "GUSEINOV",
+    "region": {
+      "id": 1,
+      "name": "newRegion2"
+    },
+    "posts": [
+      {
+        "id": 1,
+        "content": "I go to home",
+        "created": "Mar 25, 2021, 5:04:57 PM",
+        "updated": "Mar 25, 2021, 5:04:57 PM"
+      },
+      {
+        "id": 3,
+        "content": "NEW POST EEEE",
+        "created": "Mar 25, 2021, 8:09:37 PM",
+        "updated": "Mar 25, 2021, 8:11:48 PM"
+      }
+    ],
+    "role": "ADMIN"
+  }
+]
