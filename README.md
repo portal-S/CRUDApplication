@@ -8,21 +8,21 @@ User,Post,Region
 Форма редактирования:
 Данные делятся через ","
 User: 
-- create user name,surname,region_ID,postID;postID2,role (USER,MODERATOR,ADMIN)
-- update user id name,surname,region_ID,postID;postID2,role (USER,MODERATOR,ADMIN)
-- delete user id
-- read user id
+- user create name,surname,region_ID,postID;postID2,role (USER,MODERATOR,ADMIN)
+- user update id name,surname,region_ID,postID;postID2,role (USER,MODERATOR,ADMIN)
+- user delete id
+- user read id
 
 Region: 
-- create region name
-- update region id name
-- delete region id
-- read region id
+- region create name
+- region update id name
+- region delete id
+- region read id
 
 Post: 
-- create post content
-- update post id content
-- delete post id
-- read post id
+- post create content
+- post update id content
+- post delete id
+- post read id
 
 прочитать всё: readAll
